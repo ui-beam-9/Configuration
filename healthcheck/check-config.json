@@ -1,5 +1,5 @@
 {
-  "dbCheckUrl": "https://ndm.ui-beam.cn/health/api/check/db",
+  "dbCheckUrl": "https://ndm.ui-beam.cn/health/check/db",
   "cdn": {
     "url": "https://cdn-cos-netease-dashen-monitor.ui-beam.cn/client/staff/main/version.json"
   },
