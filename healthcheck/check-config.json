@@ -1,13 +1,13 @@
 {
-  "dbCheckUrl": "https://ndm.ui-beam.cn/health/check/db",
+  "dbCheckUrl": "https://ndm.ui-beam.com/health/check/db",
   "cdn": {
-    "url": "https://cdn-cos-netease-dashen-monitor.ui-beam.cn/client/staff/main/version.json"
+    "url": "https://cdn-cos-netease-dashen-monitor.ui-beam.com/client/staff/main/version.json"
   },
   "cos": {
     "url": "https://ndm-1327275832.cos.ap-chengdu.myqcloud.com/client/staff/main/version.json"
   },
   "serverApi": {
-    "url": "https://ndm.ui-beam.cn/api/health"
+    "url": "https://ndm.ui-beam.com/api/health"
   },
   "clientApi": {
     "url": "http://localhost:8000/api/health"
