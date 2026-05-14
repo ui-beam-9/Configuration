@@ -1,7 +1,7 @@
 {
   "dbCheckUrl": "https://ndm.ui-beam.com/health/check/db",
   "cdn": {
-    "url": "https://cdn-cos-netease-dashen-monitor.ui-beam.com/client/staff/main/version.json"
+    "url": "https://cdn-cos-ndm.ui-beam.com/client/staff/main/version.json"
   },
   "cos": {
     "url": "https://ndm-1327275832.cos.ap-chengdu.myqcloud.com/client/staff/main/version.json"
